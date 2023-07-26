@@ -12,7 +12,7 @@ Hi, I'm PlutoPon Ponlawat!
 </p>
 <hr/>
 <samp>
-I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
+just learning in production. motivated by forced.
 </samp>
 
 ## 🔥 Streak Stats
