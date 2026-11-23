@@ -43,7 +43,7 @@ universities, public agencies and businesses in Thailand — from the first sket
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://rewards.rabbit.co.th/"><img src="docs/cards/card-rabbit.png" alt="Rabbit Rewards" /></a>
+      <a href="https://rewards.rabbit.co.th/"><img src="docs/cards/card-rabbit-th.png" alt="Rabbit Rewards" /></a>
       <h3>Rabbit Rewards</h3>
       Loyalty program linked to the Rabbit Card and BTS Skytrain: earn points from daily commutes and purchases, redeem free trips and partner promotions. Freelance/contract — I built the website and backend/API end to end, and helped Rabbit's R&amp;D team with internal back-office modules.<br />
       <a href="https://rewards.rabbit.co.th/">rewards.rabbit.co.th</a>
@@ -57,13 +57,13 @@ universities, public agencies and businesses in Thailand — from the first sket
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://open-data.urbanally.org/"><img src="docs/cards/card-opendata.png" alt="Open Data — Urban Ally" /></a>
+      <a href="https://open-data.urbanally.org/"><img src="docs/cards/card-opendata-th.png" alt="Open Data — Urban Ally" /></a>
       <h3>Open Data — Urban Ally</h3>
       ASEAN-wide urban data hub: urban-environment overviews, open geodata for urban design, and interactive visualizations for civic initiatives like the 15-Minute City.<br />
       <a href="https://open-data.urbanally.org/">open-data.urbanally.org</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://open-data.urbanally.org/projects/Sonic-Pranakorn"><img src="docs/cards/card-sonic.png" alt="Sonic Bangkok — Urban Ally" /></a>
+      <a href="https://open-data.urbanally.org/projects/Sonic-Pranakorn"><img src="docs/cards/card-sonic-th.png" alt="Sonic Bangkok — Urban Ally" /></a>
       <h3>Sonic Bangkok — Urban Ally</h3>
       Maps the sound identity of Bangkok's historic districts: an open sound archive on a live map with theme filters, recorded with Hear&amp;Found.<br />
       <a href="https://open-data.urbanally.org/projects/Sonic-Pranakorn">open-data.urbanally.org/projects/Sonic-Pranakorn</a>

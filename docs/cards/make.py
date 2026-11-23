@@ -1,4 +1,4 @@
-# Writes card-<key>.html for each project; render each with readme-header scripts/render-banner.ts -> card-<key>.png
+# Writes card-<key>.html for each project; render each with readme-header scripts/render-banner.ts -> card-<key>-th.png (rename on each re-render so GitHub drops its image cache)
 import pathlib
 
 HERE = pathlib.Path(__file__).parent
