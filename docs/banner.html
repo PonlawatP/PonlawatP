@@ -1,6 +1,5 @@
 <!doctype html>
-<!-- Profile header. Card images come from PlutoStudio/.github profile/assets/card-*.png (cropped to their screenshot part).
-     Render 1280x640 @2x with readme-header scripts/render-banner.ts -> docs/banner.png -->
+<!-- Profile header. Render 1280x640 @2x with readme-header scripts/render-banner.ts -> docs/banner.png, then crop to the top 1280x290 (@2x: 2560x580) -->
 <html lang="en">
 <head>
 <meta charset="utf-8" />
@@ -14,7 +13,7 @@
   body {
     font-family: "IBM Plex Sans Thai", "Noto Sans Thai", "Inter", sans-serif; color: var(--ink); position: relative;
     background:
-      radial-gradient(760px 380px at 50% 104%, var(--glow), transparent 70%),
+      radial-gradient(900px 220px at 50% 50%, var(--glow), transparent 70%),
       radial-gradient(520px 300px at 96% -6%, var(--teal), transparent 70%),
       radial-gradient(520px 300px at 2% 100%, rgb(150 90 170 / 0.16), transparent 70%),
       linear-gradient(rgb(255 255 255 / 0.03) 1px, transparent 1px) 0 0 / 40px 40px,
@@ -33,18 +32,6 @@
   h1 em { font-style: normal; color: var(--accent); }
   .checks { margin-top: 14px; display: flex; justify-content: center; gap: 22px; font-size: 19px; font-weight: 500; color: var(--muted); }
   .checks span::before { content: "✔"; color: var(--coral); margin-right: 7px; }
-  .shot {
-    position: absolute; top: var(--t); left: var(--l); width: 560px; height: 420px; overflow: hidden;
-    border-radius: 14px; border: 1px solid rgb(255 255 255 / 0.14);
-    box-shadow: 0 -10px 50px rgb(0 0 0 / .45), 0 0 0 6px rgb(255 255 255 / 0.03);
-    transform: rotate(var(--r)); background: #0d0c12;
-  }
-  /* each card is a 2:1 banner; scale it up and shift so only its screenshot part shows */
-  /* margin-top % is of frame width: card height = width*k/2, screenshot starts ~37% down */
-  .shot img { display: block; width: calc(var(--k) * 100%); margin-left: calc((1 - var(--k)) * 50%); margin-top: calc(var(--k) * -18.5%); }
-  .shot { --k: 2; }
-  .mid { --k: 1.6; }
-  .mid { z-index: 2; width: 700px; height: 420px; }
 </style>
 </head>
 <body>
@@ -66,8 +53,5 @@
       <span>Ship &amp; keep it running</span>
     </div>
   </div>
-  <div class="shot" style="--l:40px;--t:305px;--r:-5deg"><img src="card-group-sentinel.png" alt="" /></div>
-  <div class="shot" style="--l:680px;--t:305px;--r:5deg"><img src="card-waterwise.png" alt="" /></div>
-  <div class="shot mid" style="--l:290px;--t:292px;--r:0deg"><img src="card-planriean.png" alt="" /></div>
 </body>
 </html>

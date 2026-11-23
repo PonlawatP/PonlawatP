@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="#-highlight">Highlight</a> ·
   <a href="#-plutostudio">PlutoStudio</a> ·
   <a href="#-selected-work">Selected work</a> ·
   <a href="#-open-source--tools">Open source</a> ·
@@ -15,6 +16,15 @@
 I build real systems end to end — design, code, ship to production, and keep them running afterwards.
 Most of what PlutoStudio delivers is built by me: web apps and back-offices, APIs that talk to legacy
 university and government systems, data pipelines, and AI features that do actual work.
+
+## ⭐ Highlight
+
+### [Rabbit Rewards](https://rewards.rabbit.co.th/)
+
+Rabbit's rewards platform — *"Change every day to a reward"*. Freelance/contract work: I built the
+customer-facing web and the backend/API end to end, and worked with Rabbit's R&amp;D team on internal
+back-office modules.<br />
+<a href="https://rewards.rabbit.co.th/">rewards.rabbit.co.th</a>
 
 ## 🪐 PlutoStudio
 
