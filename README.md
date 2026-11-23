@@ -82,8 +82,7 @@ universities, public agencies and businesses in Thailand — from the first sket
   </tr>
 </table>
 
-Also: a blood-bank system that syncs hospital blood-bag stock into a shared service (Windows agent + API
-gateway), an intellectual-property database for Mahasarakham University, and a few more client projects
+Also: an intellectual-property database for Mahasarakham University, and a few more client projects
 that live in private repos.
 
 ## 🧰 Open source & tools
