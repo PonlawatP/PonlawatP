@@ -49,24 +49,24 @@ universities, public agencies and businesses in Thailand — from the first sket
       <a href="https://rewards.rabbit.co.th/">rewards.rabbit.co.th</a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://roiet-twc.greendev.app/dashboard"><img src="https://raw.githubusercontent.com/PlutoStudio/.github/main/profile/assets/card-waterwise.png" alt="WaterWise" /></a>
+      <h3>WaterWise</h3>
+      Province-level community water data system: overview map, water demand, surveyed sources and supply.<br />
+      <a href="https://roiet-twc.greendev.app/dashboard">roiet-twc.greendev.app</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://open-data.urbanally.org/"><img src="docs/cards/card-opendata.png" alt="Open Data — Urban Ally" /></a>
       <h3>Open Data — Urban Ally</h3>
       ASEAN-wide urban data hub: urban-environment overviews, open geodata for urban design, and interactive visualizations for civic initiatives like the 15-Minute City.<br />
       <a href="https://open-data.urbanally.org/">open-data.urbanally.org</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://open-data.urbanally.org/projects/Sonic-Pranakorn"><img src="docs/cards/card-sonic.png" alt="Sonic Bangkok — Urban Ally" /></a>
       <h3>Sonic Bangkok — Urban Ally</h3>
       Maps the sound identity of Bangkok's historic districts: an open sound archive on a live map with theme filters, recorded with Hear&amp;Found.<br />
       <a href="https://open-data.urbanally.org/projects/Sonic-Pranakorn">open-data.urbanally.org/projects/Sonic-Pranakorn</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://roiet-twc.greendev.app/dashboard"><img src="https://raw.githubusercontent.com/PlutoStudio/.github/main/profile/assets/card-waterwise.png" alt="WaterWise" /></a>
-      <h3>WaterWise</h3>
-      Province-level community water data system: overview map, water demand, surveyed sources and supply.<br />
-      <a href="https://roiet-twc.greendev.app/dashboard">roiet-twc.greendev.app</a>
     </td>
   </tr>
   <tr>
