@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Ponlawat — PlutoPon 👋</h1>
-
 <p align="center">
-  Founder &amp; lead developer of <a href="https://github.com/PlutoStudio"><b>PlutoStudio</b></a> · Roi Et, Thailand
+  <img src="docs/banner.png" width="900" alt="Ponlawat (PlutoPon), founder of PlutoStudio — I build systems people actually use, end to end: web apps &amp; back-offices · APIs &amp; integrations · Data &amp; AI · ship &amp; keep it running" />
 </p>
 
 <p align="center">
