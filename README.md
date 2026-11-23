@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="#-highlight">Highlight</a> ·
   <a href="#-plutostudio">PlutoStudio</a> ·
   <a href="#-selected-work">Selected work</a> ·
   <a href="#-open-source--tools">Open source</a> ·
@@ -17,15 +16,6 @@ I build real systems end to end — design, code, ship to production, and keep t
 Most of what PlutoStudio delivers is built by me: web apps and back-offices, APIs that talk to legacy
 university and government systems, data pipelines, and AI features that do actual work.
 
-## ⭐ Highlight
-
-### [Rabbit Rewards](https://rewards.rabbit.co.th/)
-
-Rabbit's rewards platform — *"Change every day to a reward"*. Freelance/contract work: I built the
-customer-facing web and the backend/API end to end, and worked with Rabbit's R&amp;D team on internal
-back-office modules.<br />
-<a href="https://rewards.rabbit.co.th/">rewards.rabbit.co.th</a>
-
 ## 🪐 PlutoStudio
 
 [PlutoStudio](https://github.com/PlutoStudio) is the small software studio I started. We build for
@@ -36,6 +26,12 @@ universities, public agencies and businesses in Thailand — from the first sket
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://rewards.rabbit.co.th/"><img src="docs/cards/card-rabbit.png" alt="Rabbit Rewards" /></a>
+      <h3>Rabbit Rewards</h3>
+      Loyalty program linked to the Rabbit Card and BTS Skytrain: earn points from daily commutes and purchases, redeem free trips and partner promotions. Freelance/contract — I built the website and backend/API end to end, and helped Rabbit's R&amp;D team with internal back-office modules.<br />
+      <a href="https://rewards.rabbit.co.th/">rewards.rabbit.co.th</a>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://www.planriean.com"><img src="https://raw.githubusercontent.com/PlutoStudio/.github/main/profile/assets/card-planriean.png" alt="Planriean" /></a>
       <h3>Planriean</h3>
       Class-schedule planner for university students: pick courses, catch time clashes, read course reviews,
@@ -43,6 +39,8 @@ universities, public agencies and businesses in Thailand — from the first sket
       university registration system.<br />
       <a href="https://www.planriean.com">planriean.com</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://group-sen.plutopon.me"><img src="https://raw.githubusercontent.com/PlutoStudio/.github/main/profile/assets/card-group-sentinel.png" alt="Group Sentinel" /></a>
       <h3>Group Sentinel</h3>
@@ -50,14 +48,28 @@ universities, public agencies and businesses in Thailand — from the first sket
       Browser extension + backend + image ingest pipeline.<br />
       <a href="https://group-sen.plutopon.me">group-sen.plutopon.me</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://roiet-twc.greendev.app/dashboard"><img src="https://raw.githubusercontent.com/PlutoStudio/.github/main/profile/assets/card-waterwise.png" alt="WaterWise" /></a>
       <h3>WaterWise</h3>
       Province-level community water data system: overview map, water demand, surveyed sources and supply.<br />
       <a href="https://roiet-twc.greendev.app/dashboard">roiet-twc.greendev.app</a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://open-data.urbanally.org/"><img src="docs/cards/card-opendata.png" alt="Open Data — Urban Ally" /></a>
+      <h3>Open Data — Urban Ally</h3>
+      ASEAN-wide urban data hub: urban-environment overviews, open geodata for urban design, and interactive visualizations for civic initiatives like the 15-Minute City.<br />
+      <a href="https://open-data.urbanally.org/">open-data.urbanally.org</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://open-data.urbanally.org/projects/Sonic-Pranakorn"><img src="docs/cards/card-sonic.png" alt="Sonic Bangkok — Urban Ally" /></a>
+      <h3>Sonic Bangkok — Urban Ally</h3>
+      Maps the sound identity of Bangkok's historic districts: an open sound archive on a live map with theme filters, recorded with Hear&amp;Found.<br />
+      <a href="https://open-data.urbanally.org/projects/Sonic-Pranakorn">open-data.urbanally.org/projects/Sonic-Pranakorn</a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://www.planriean.com/loy"><img src="https://raw.githubusercontent.com/PlutoStudio/.github/main/profile/assets/card-loykrathong.png" alt="Loy Krathong online" /></a>
       <h3>ลอยสุขไปต่อ — online Loy Krathong</h3>
@@ -65,20 +77,21 @@ universities, public agencies and businesses in Thailand — from the first sket
       then save a shareable card.<br />
       <a href="https://www.planriean.com/loy">planriean.com/loy</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://www.maethongbaigold.com/"><img src="https://raw.githubusercontent.com/PlutoStudio/.github/main/profile/assets/card-maethongbai.png" alt="Mae Thong Bai gold shop" /></a>
       <h3>แม่ทองใบอมตะ</h3>
       Gold-shop website with today's gold price, products, promotions and branch map.<br />
       <a href="https://www.maethongbaigold.com/">maethongbaigold.com</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/PlutoStudio/.github/main/profile/assets/card-verddc.png" alt="verDDC" />
       <h3>verDDC</h3>
       Daily/weekly machine-rental store with PromptPay top-up and remote power control over a relay switch.<br />
       <sub>Retired</sub>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
