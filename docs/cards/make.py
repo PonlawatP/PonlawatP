@@ -3,7 +3,7 @@ import pathlib
 
 HERE = pathlib.Path(__file__).parent
 TEMPLATE = """<!doctype html>
-<html lang="en">
+<html lang="th">
 <head>
 <meta charset="utf-8" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -52,16 +52,16 @@ TEMPLATE = """<!doctype html>
 CARDS = {
     "rabbit": dict(name="Rabbit Rewards", icon="rabbit-icon.png", shot="rabbit.png",
                    accent="#F28C1E", accent2="#0F2357", glow="rgb(242 140 30 / 0.28)",
-                   before="Every daily trip", accent_text="turns into rewards", after="",
-                   checks=["Earn points on BTS &amp; Rabbit Card", "Redeem free trips", "Partner promotions"]),
+                   before="เปลี่ยนทุกการเดินทาง", accent_text="เป็นรางวัล", after="",
+                   checks=["สะสมแต้มจาก BTS และบัตร Rabbit", "แลกเที่ยวเดินทางฟรี", "โปรโมชั่นร้านค้าพาร์ทเนอร์"]),
     "opendata": dict(name="Open Data · Urban Ally", icon="ua-teal.png", shot="opendata.png",
                      accent="#22A99A", accent2="#147a70", glow="rgb(34 169 154 / 0.28)",
-                     before="ASEAN", accent_text="urban open data", after=", in one hub",
-                     checks=["Urban context", "Open geodata for design", "Global data", "15-Minute City"]),
+                     before="ศูนย์รวม", accent_text="ข้อมูลเมืองแบบเปิด", after=" ของอาเซียน",
+                     checks=["ภาพรวมสภาพแวดล้อมเมือง", "Geodata สำหรับออกแบบเมือง", "ข้อมูลระดับโลก", "เมือง 15 นาที"]),
     "sonic": dict(name="Sonic Bangkok · Urban Ally", icon="ua-dark.png", shot="sonic.png",
                   accent="#22A99A", accent2="#181C27", glow="rgb(34 169 154 / 0.28)",
-                  before="Bangkok's old town,", accent_text="mapped by sound", after="",
-                  checks=["Open sound archive", "Theme filters on a live map", "With Hear&amp;Found"]),
+                  before="สำรวจย่านเมืองเก่า", accent_text="ผ่านเสียง", after="",
+                  checks=["ฐานข้อมูลเสียงแบบเปิด", "แผนที่กรองตามธีมเสียง", "ร่วมกับ Hear&amp;Found"]),
 }
 
 for key, c in CARDS.items():
