@@ -34,25 +34,27 @@ universities, public agencies and businesses in Thailand — from the first sket
       <a href="https://www.planriean.com">planriean.com</a>
     </td>
     <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/PlutoStudio/.github/main/profile/assets/card-payforward.png" alt="Payforward" />
+      <h3>Payforward</h3>
+      Self-hosted personal finance app built on one idea: this month's salary pays for next month.
+      Monthly bill plan, payroll and Thai income tax, subscriptions and installments, split bills and money
+      owed to friends. Bank slips are read by a vision model; the Android app sends them in automatically.
+      Next.js + Bun API + Android.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://group-sen.plutopon.me"><img src="https://raw.githubusercontent.com/PlutoStudio/.github/main/profile/assets/card-group-sentinel.png" alt="Group Sentinel" /></a>
       <h3>Group Sentinel</h3>
       AI assistant for Facebook group admins: screens posts and join requests, with insights and an audit log.
       Browser extension + backend + image ingest pipeline.<br />
       <a href="https://group-sen.plutopon.me">group-sen.plutopon.me</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://rewards.rabbit.co.th/"><img src="docs/cards/card-rabbit-th.png" alt="Rabbit Rewards" /></a>
       <h3>Rabbit Rewards</h3>
       Loyalty program linked to the Rabbit Card and BTS Skytrain: earn points from daily commutes and purchases, redeem free trips and partner promotions. Freelance/contract — I built the website and backend/API end to end, and helped Rabbit's R&amp;D team with internal back-office modules.<br />
       <a href="https://rewards.rabbit.co.th/">rewards.rabbit.co.th</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://roiet-twc.greendev.app/dashboard"><img src="https://raw.githubusercontent.com/PlutoStudio/.github/main/profile/assets/card-waterwise.png" alt="WaterWise" /></a>
-      <h3>WaterWise</h3>
-      Province-level community water data system: overview map, water demand, surveyed sources and supply.<br />
-      <a href="https://roiet-twc.greendev.app/dashboard">roiet-twc.greendev.app</a>
     </td>
   </tr>
   <tr>
@@ -71,27 +73,32 @@ universities, public agencies and businesses in Thailand — from the first sket
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://roiet-twc.greendev.app/dashboard"><img src="https://raw.githubusercontent.com/PlutoStudio/.github/main/profile/assets/card-waterwise.png" alt="WaterWise" /></a>
+      <h3>WaterWise</h3>
+      Province-level community water data system: overview map, water demand, surveyed sources and supply.<br />
+      <a href="https://roiet-twc.greendev.app/dashboard">roiet-twc.greendev.app</a>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://www.planriean.com/loy"><img src="https://raw.githubusercontent.com/PlutoStudio/.github/main/profile/assets/card-loykrathong.png" alt="Loy Krathong online" /></a>
       <h3>ลอยสุขไปต่อ — online Loy Krathong</h3>
       Seasonal campaign: decorate your own krathong, write a wish, float it with up to 4 friends,
       then save a shareable card.<br />
       <a href="https://www.planriean.com/loy">planriean.com/loy</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://www.maethongbaigold.com/"><img src="https://raw.githubusercontent.com/PlutoStudio/.github/main/profile/assets/card-maethongbai.png" alt="Mae Thong Bai gold shop" /></a>
       <h3>แม่ทองใบอมตะ</h3>
       Gold-shop website with today's gold price, products, promotions and branch map.<br />
       <a href="https://www.maethongbaigold.com/">maethongbaigold.com</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/PlutoStudio/.github/main/profile/assets/card-verddc.png" alt="verDDC" />
       <h3>verDDC</h3>
       Daily/weekly machine-rental store with PromptPay top-up and remote power control over a relay switch.<br />
       <sub>Retired</sub>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
