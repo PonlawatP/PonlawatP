@@ -34,9 +34,10 @@ universities, public agencies and businesses in Thailand — from the first sket
       <a href="https://www.planriean.com">planriean.com</a>
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/PlutoStudio/.github/main/profile/assets/card-payforward.png" alt="Payforward" />
-      <h3>Payforward</h3>
-      Self-hosted personal finance app built on one idea: this month's salary pays for next month.
+      <img src="https://raw.githubusercontent.com/PlutoStudio/.github/main/profile/assets/card-kanwai.png" alt="Kanwai (กันไว้)" />
+      <h3>Kanwai (กันไว้)</h3>
+      Self-hosted personal finance app built on one idea: set next month's bills aside from this month's
+      salary, then you know what's left to spend.
       Monthly bill plan, payroll and Thai income tax, subscriptions and installments, split bills and money
       owed to friends. Bank slips are read by a vision model; the Android app sends them in automatically.
       Next.js + Bun API + Android.
